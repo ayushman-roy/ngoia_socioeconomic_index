@@ -1,0 +1,13 @@
+data/PLFS/Data/*
+
+.env
+
+*.log
+*.tmp
+*.bak
+.DS_Store
+
+__pycache__/
+*.pyc
+*.pyo
+*.pyd

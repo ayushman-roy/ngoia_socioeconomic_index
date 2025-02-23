@@ -1,0 +1,2 @@
+data/PLFS/Data/*.TXT filter=lfs diff=lfs merge=lfs -text
+data/PLFS/Data/*.csv filter=lfs diff=lfs merge=lfs -text
