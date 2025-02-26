@@ -1,0 +1,76 @@
+Quartile 1 Statistics:
+Variable: sex_ratio
+Mean: 1027.8377702702703
+Median: 1023.54
+Mode: 843.82
+Standard Deviation: 86.49274963771497
+
+Variable: men_tobbaco
+Mean: 27.166418918918918
+Median: 25.64
+Mode: 18.29
+Standard Deviation: 11.082178867405247
+
+Variable: marst_1
+Mean: 0.40156971790165885
+Median: 0.3986550669816834
+Mode: 0.2722987740014751
+Standard Deviation: 0.049453323524632053
+
+Quartile 2 Statistics:
+Variable: sex_ratio
+Mean: 1018.9575000000001
+Median: 1010.475
+Mode: 860.94
+Standard Deviation: 72.693784815831
+
+Variable: men_tobbaco
+Mean: 38.750878378378374
+Median: 39.64
+Mode: 35.09
+Standard Deviation: 15.981427610664305
+
+Variable: marst_1
+Mean: 0.424285556734461
+Median: 0.4163565643837654
+Mode: 0.2952736450984771
+Standard Deviation: 0.05933039191997037
+
+Quartile 3 Statistics:
+Variable: sex_ratio
+Mean: 1008.1259863945576
+Median: 999.02
+Mode: 914.6
+Standard Deviation: 55.90747908233995
+
+Variable: men_tobbaco
+Mean: 46.89482993197279
+Median: 46.56
+Mode: 37.66
+Standard Deviation: 8.518533891618885
+
+Variable: marst_1
+Mean: 0.4668022303618879
+Median: 0.4668163158833989
+Mode: 0.3647544640186208
+Standard Deviation: 0.053778331601496115
+
+Quartile 4 Statistics:
+Variable: sex_ratio
+Mean: 1042.407972972973
+Median: 1047.76
+Mode: 897.8
+Standard Deviation: 64.85498785972425
+
+Variable: men_tobbaco
+Mean: 49.30040540540541
+Median: 49.76
+Mode: 44.94
+Standard Deviation: 8.135297650469791
+
+Variable: marst_1
+Mean: 0.47687724787608116
+Median: 0.48590484742795115
+Mode: 0.31838471
+Standard Deviation: 0.05709845476496842
+
