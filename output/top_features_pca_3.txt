@@ -1,0 +1,16 @@
+Top Features in PCA (3):
+sg_1_pct             0.354310
+marst_1              0.345487
+delivery_expense     0.336208
+women_tobbaco        0.312080
+gedu_lvl_12          0.308047
+men_tobbaco          0.306994
+marst_3              0.306215
+gedu_lvl_13          0.305660
+hh_size_mean         0.300786
+men_alc              0.300613
+form_edu_mean        0.289011
+fam_female_ster      0.287341
+women_lowBMI         0.284054
+age_group_age_60+    0.282983
+wrkr_sas_1.0         0.282559

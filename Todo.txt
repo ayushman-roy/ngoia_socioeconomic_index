@@ -1,32 +1,25 @@
-~ 14H LEFT
-
-Analysis: [4]    
+Analysis:  
         z-score
             pearson correlation // pca vaildation
-                pca selections -> 2d/3d/explained variance, validate with elbow
-                    pca
-                        min-max {remove ideal from k-means analysis}
-                            train-test (transfer pca weights) / 100% train
-                                k means // 3,5,10 clusters + silhouette, validate with elbow
+                pca selections & apply-> 3d/explained variance and elbow 
+                        min-max {remove ideal from k-means space}
+                            train-test splits // 100% train
+                                k means // silhouette and elbow
 
-3 pca -> 2 test/train -> 3 k means => 18 results
+Ranking: 
+Calculate datapoint distance & cluster distance [Euclidean] from ideal point, make weighted average ranks
+Spearman correlation across results
+Analyse the relevant rankings (HDI correlations)
+    Cluster average characteristics (means, deviations)
+    Analyse specific differences (percentile [cluster as datapoint], qualitative analyses, HDI)
 
-Ranking: [3]
-calculate datapoint distance & cluster distance [euclidean] from ideal point, make weighted average ranks
-spearman correlation across results
-select best 3 for analysis (HDI differences across k means, silhouette scores)
-    cluster average characteristics (means, deviations)
-    analyse specific differences (percentile [cluster as datapoint], qualitative analyses, HDI)
+Validation: (≥3) 
+Correlate with satellite based electricity usage ///
+Vehicle/transport related data ///
+Increase in public service output (hospitals, offices, factories etc.) ///
+Track complaints per district (writing to the govt) ///
+Population growth data ///
 
--------
-
-Validation: (≥3) [4]
-Correlate with satellite based electricity usage
-Vehicle/transport related data
-Increase in public service output (hospitals, offices, factories etc.)
-Track complaints per district (writing to the govt)
-Population growth data
-
-Deliverable: [3]
+Deliverable: 
 Write paper (key questions addressed, lit review, {project explaination}, further research, limitations)
-Record demo
+Record code demo

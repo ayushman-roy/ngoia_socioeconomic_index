@@ -1,0 +1,173 @@
+district	IDEAL
+state	IDEAL
+pop_below_15	
+sex_ratio	1000
+sex_ratio_birth	952
+hh_elec	100.0
+hh_drnk_water	100.0
+hh_sanitation	99.85
+hh_fuel	99.54
+hh_salt	99.96
+hh_health_insurance	97.79
+women_10yr_school	88.18
+women_premarried	0.0
+women_earlymother	0.0
+women_menstrual	100.0
+fam_contra	89.09
+fam_modern_contra	79.86
+fam_female_ster	
+fam_IUD	
+fam_pill	
+fam_condom	
+fam_injectibles	
+fam_unmet_need	1.24
+fam_healthworkers	63.35
+fam_sideeffects	98.91
+mother_antenatal	98.65
+mother_neonatal	100.0
+mother_folic	84.58
+mother_MCP	100.0
+delivery_expense	
+institutional_birth	96.65
+births_csection	
+child_vaccinated	98.34
+child_public_vaccinated	
+child_private_vaccinated	
+child_diarrhoea	0.0
+child_resp	0.0
+child_diet	9.94
+child_stunted	13.16
+child_wasted	4.46
+child_severely_wasted	0.45
+child_underwght	7.17
+child_overwght	0.0
+women_lowBMI	1.17
+women_highBMI	3.91
+women_high_wh	21.91
+child_anaemic	28.0
+women_anaemic	14.91
+young_women_anaemic	18.23
+women_highBS	4.51
+men_highBS	4.79
+women_highBP	8.53
+men_highBP	10.02
+women_cervical	23.22
+women_breast	14.55
+women_oral	15.84
+women_tobbaco	0.06
+men_tobbaco	6.75
+women_alc	0.0
+men_alc	0.07
+HDI	
+st	
+dc	
+form_edu_mean	11.323531911034603
+form_edu_median	12.0
+ern_reg_mean	
+ern_self_mean	10905.018887484524
+age_group_age_<18	
+age_group_age_18-35	0.4754068184967153
+age_group_age_35-60	
+age_group_age_60+	0.007747748
+marst_1	
+marst_2	
+marst_3	0.000347328
+gedu_lvl_1	0.054781641
+gedu_lvl_5	0.011037972
+gedu_lvl_6	
+gedu_lvl_7	
+gedu_lvl_8	0.3086597890035588
+gedu_lvl_10	0.2495903897112846
+gedu_lvl_12	0.3968073375622317
+gedu_lvl_13	0.1762096948137457
+tedu_lvl_1	0.772236453
+voc_1.0	0.2180498474293206
+voc_2.0	
+voc_3.0	
+voc_4.0	
+voc_6.0	0.049393944
+voc_typ_3.0	1.0
+voc_fund_2.0	
+has_sas_1	
+has_sas_2	
+loc_pas_11.0	
+loc_pas_14.0	0.544542893
+loc_pas_16.0	0.7522358865857156
+loc_pas_18.0	
+loc_pas_19.0	
+loc_pas_24.0	0.3496933107586968
+loc_pas_26.0	0.9221280183487178
+loc_pas_28.0	
+loc_pas_99.0	9.08414510781648e-05
+etyp_pas_1.0	
+etyp_pas_2.0	0.4688826076282624
+etyp_pas_5.0	0.7428242791489253
+wrkr_pas_1.0	
+wrkr_pas_2.0	
+wrkr_pas_3.0	
+wrkr_pas_4.0	0.5503261707760856
+job_pas_1.0	
+job_pas_4.0	
+leave_pas_1.0	
+leave_pas_2.0	
+ssec_pas_7.0	1.0
+ssec_pas_8.0	0.095912612
+ecoprd_pas_2.0	
+ecoprd_pas_3.0	1.0
+etyp_sas_1.0	
+etyp_sas_2.0	1.0
+wrkr_sas_1.0	
+ecoprd_sas_3.0	0.001639847
+wrk_365_1.0	1.0
+dur_pas_2.0	0.2309762178234778
+dur_pas_3.0	0.2542463086442358
+dur_pas_4.0	0.316280699
+dur_pas_5.0	1.0
+dur_sas_4.0	
+dur_sas_5.0	0.006732811
+eff_pas_1.0	
+dur_unp_3.0	0.008282037
+evr_wrk_1.0	
+evr_wrk_2.0	
+acws_11	
+acws_12	
+acws_21	0.003236475
+acws_31	
+acws_51	
+acws_81	3.49917356368717e-05
+acws_91	0.458572503
+acws_92	0.0018306
+acws_94	0.000643693
+acws_95	
+acws_97	5.8936274821212234e-05
+acws_99	0.013281958
+marst_4	6.937815061631548e-05
+gedu_lvl_11	0.095194866
+loc_pas_10.0	
+etyp_pas_8.0	0.5082342470150588
+dur_sas_3.0	
+job_sas_1.0	0.3197650322619554
+leave_sas_2.0	0.073250224
+ssec_sas_8.0	0.064906742
+acws_93	0.000145939
+hh_size_mean	
+hh_size_median	
+hce1_mean	
+hce1_median	
+hce2_mean	
+hce3_mean	0.0
+hce3_median	0.0
+hce4_mean	
+hce4_median	
+hce5_mean	61499.741677743965
+hce5_median	49000.0
+hce_tot_mean	
+hce_tot_median	
+mult_total	
+relg_2_pct	
+relg_1_pct	
+sg_9_pct	
+sg_3_pct	
+sg_1_pct	
+sg_2_pct	
+distance	0.0
