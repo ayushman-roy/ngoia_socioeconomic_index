@@ -1,5 +1,3 @@
 6_socioeconomic_ranks,3_socioeconomic_ranks
-9_socioeconomic_ranks,6_socioeconomic_ranks
-12_socioeconomic_ranks,6_socioeconomic_ranks
-12_socioeconomic_ranks,9_socioeconomic_ranks
+21_socioeconomic_ranks,15_socioeconomic_ranks
 24_socioeconomic_ranks,21_socioeconomic_ranks

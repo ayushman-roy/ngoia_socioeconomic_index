@@ -68,30 +68,30 @@ ern_self_mean	10905.018887484524
 age_group_age_<18	
 age_group_age_18-35	0.4754068184967153
 age_group_age_35-60	
-age_group_age_60+	0.007747748
+age_group_age_60+	0.0077477482720142
 marst_1	
 marst_2	
-marst_3	0.000347328
-gedu_lvl_1	0.054781641
-gedu_lvl_5	0.011037972
+marst_3	0.0003473281224343
+gedu_lvl_1	0.0547816410993853
+gedu_lvl_5	0.0110379723640676
 gedu_lvl_6	
 gedu_lvl_7	
 gedu_lvl_8	0.3086597890035588
 gedu_lvl_10	0.2495903897112846
 gedu_lvl_12	0.3968073375622317
 gedu_lvl_13	0.1762096948137457
-tedu_lvl_1	0.772236453
+tedu_lvl_1	0.772236453394904
 voc_1.0	0.2180498474293206
 voc_2.0	
 voc_3.0	
 voc_4.0	
-voc_6.0	0.049393944
+voc_6.0	0.0493939444705533
 voc_typ_3.0	1.0
 voc_fund_2.0	
 has_sas_1	
 has_sas_2	
 loc_pas_11.0	
-loc_pas_14.0	0.544542893
+loc_pas_14.0	0.544542893344825
 loc_pas_16.0	0.7522358865857156
 loc_pas_18.0	
 loc_pas_19.0	
@@ -111,45 +111,45 @@ job_pas_4.0
 leave_pas_1.0	
 leave_pas_2.0	
 ssec_pas_7.0	1.0
-ssec_pas_8.0	0.095912612
+ssec_pas_8.0	0.095912612087202
 ecoprd_pas_2.0	
 ecoprd_pas_3.0	1.0
 etyp_sas_1.0	
 etyp_sas_2.0	1.0
 wrkr_sas_1.0	
-ecoprd_sas_3.0	0.001639847
+ecoprd_sas_3.0	0.001639846599286
 wrk_365_1.0	1.0
 dur_pas_2.0	0.2309762178234778
 dur_pas_3.0	0.2542463086442358
-dur_pas_4.0	0.316280699
+dur_pas_4.0	0.316280699335998
 dur_pas_5.0	1.0
 dur_sas_4.0	
-dur_sas_5.0	0.006732811
+dur_sas_5.0	0.006732811319414
 eff_pas_1.0	
-dur_unp_3.0	0.008282037
+dur_unp_3.0	0.0082820370778065
 evr_wrk_1.0	
 evr_wrk_2.0	
 acws_11	
 acws_12	
-acws_21	0.003236475
+acws_21	0.0032364748083534
 acws_31	
 acws_51	
 acws_81	3.49917356368717e-05
-acws_91	0.458572503
-acws_92	0.0018306
-acws_94	0.000643693
+acws_91	0.45857250298571
+acws_92	0.0018306001790867
+acws_94	0.0006436931826288
 acws_95	
 acws_97	5.8936274821212234e-05
-acws_99	0.013281958
+acws_99	0.0132819580977099
 marst_4	6.937815061631548e-05
-gedu_lvl_11	0.095194866
+gedu_lvl_11	0.0951948662173136
 loc_pas_10.0	
 etyp_pas_8.0	0.5082342470150588
 dur_sas_3.0	
 job_sas_1.0	0.3197650322619554
-leave_sas_2.0	0.073250224
-ssec_sas_8.0	0.064906742
-acws_93	0.000145939
+leave_sas_2.0	0.0732502241125362
+ssec_sas_8.0	0.0649067416324547
+acws_93	0.0001459392126607
 hh_size_mean	
 hh_size_median	
 hce1_mean	
@@ -170,4 +170,3 @@ sg_9_pct
 sg_3_pct	
 sg_1_pct	
 sg_2_pct	
-distance	0.0

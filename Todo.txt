@@ -14,12 +14,4 @@ Analyse the relevant rankings (HDI correlations)
     Analyse specific differences (percentile [cluster as datapoint], qualitative analyses, HDI)
 
 Validation: (≥3) 
-Correlate with satellite based electricity usage ///
-Vehicle/transport related data ///
-Increase in public service output (hospitals, offices, factories etc.) ///
-Track complaints per district (writing to the govt) ///
-Population growth data ///
-
-Deliverable: 
-Write paper (key questions addressed, lit review, {project explaination}, further research, limitations)
-Record code demo
+HDI, # district hospital beds, district road network, projected population growth data

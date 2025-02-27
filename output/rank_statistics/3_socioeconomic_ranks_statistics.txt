@@ -1,76 +1,76 @@
 Quartile 1 Statistics:
 Variable: sex_ratio
-Mean: 1027.8377702702703
+Mean: 1027.4987162162163
 Median: 1023.54
 Mode: 843.82
-Standard Deviation: 86.49274963771497
+Standard Deviation: 86.70072032655443
 
 Variable: men_tobbaco
-Mean: 27.166418918918918
-Median: 25.64
+Mean: 27.59695945945946
+Median: 25.814999999999998
 Mode: 18.29
-Standard Deviation: 11.082178867405247
+Standard Deviation: 11.51299033590039
 
 Variable: marst_1
-Mean: 0.40156971790165885
-Median: 0.3986550669816834
+Mean: 0.40139056777832904
+Median: 0.3985669494193071
 Mode: 0.2722987740014751
-Standard Deviation: 0.049453323524632053
+Standard Deviation: 0.04933299389247975
 
 Quartile 2 Statistics:
 Variable: sex_ratio
-Mean: 1018.9575000000001
-Median: 1010.475
+Mean: 1019.9909523809523
+Median: 1010.57
 Mode: 860.94
-Standard Deviation: 72.693784815831
+Standard Deviation: 73.11607399996905
 
 Variable: men_tobbaco
-Mean: 38.750878378378374
-Median: 39.64
+Mean: 38.461836734693875
+Median: 39.38
 Mode: 35.09
-Standard Deviation: 15.981427610664305
+Standard Deviation: 15.874293427071906
 
 Variable: marst_1
-Mean: 0.424285556734461
-Median: 0.4163565643837654
+Mean: 0.42496791081914237
+Median: 0.4161672261011663
 Mode: 0.2952736450984771
-Standard Deviation: 0.05933039191997037
+Standard Deviation: 0.05992370974555653
 
 Quartile 3 Statistics:
 Variable: sex_ratio
-Mean: 1008.1259863945576
+Mean: 1007.3113605442175
 Median: 999.02
 Mode: 914.6
-Standard Deviation: 55.90747908233995
+Standard Deviation: 54.73267884685235
 
 Variable: men_tobbaco
-Mean: 46.89482993197279
+Mean: 46.843061224489794
 Median: 46.56
 Mode: 37.66
-Standard Deviation: 8.518533891618885
+Standard Deviation: 8.519290488516797
 
 Variable: marst_1
-Mean: 0.4668022303618879
-Median: 0.4668163158833989
+Mean: 0.4664235190511985
+Median: 0.4657643751814934
 Mode: 0.3647544640186208
-Standard Deviation: 0.053778331601496115
+Standard Deviation: 0.05342434786605292
 
 Quartile 4 Statistics:
 Variable: sex_ratio
-Mean: 1042.407972972973
+Mean: 1042.6577702702702
 Median: 1047.76
 Mode: 897.8
-Standard Deviation: 64.85498785972425
+Standard Deviation: 65.16367353100736
 
 Variable: men_tobbaco
-Mean: 49.30040540540541
+Mean: 49.424594594594595
 Median: 49.76
 Mode: 44.94
-Standard Deviation: 8.135297650469791
+Standard Deviation: 7.909263954194059
 
 Variable: marst_1
-Mean: 0.47687724787608116
+Mean: 0.47690829227010617
 Median: 0.48590484742795115
-Mode: 0.31838471
-Standard Deviation: 0.05709845476496842
+Mode: 0.3183847096438
+Standard Deviation: 0.05712629710589738
 
